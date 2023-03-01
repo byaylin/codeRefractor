@@ -6,7 +6,7 @@ Modify website to improve accessibilty standards. Provide image descriptions for
 ![image](https://user-images.githubusercontent.com/117704967/208044194-bec27ce0-442a-4c29-8ffa-04105e70f79d.png)
 
 ## Usage 
-No need to install anything for this, simply follow the link https://byaylin.github.io/code-refractor/ 
+No need to install anything for this, simply follow the link https://byaylin.github.io/codeRefractor/ 
 
 ## Installation
 N/A
